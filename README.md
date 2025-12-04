@@ -2,7 +2,6 @@
 
 ## Objectifs
 
-
 - Conception bbd suivant methode MERISE 
 - Conception bbd utilisant ORM (sqlalchemy)
 - Respect des bonnes pratiques RGPD
@@ -10,8 +9,18 @@
 - rendu note de conformite
 
 # MCD
-![MCD](mcd.png)
+![MCD](images/mcd.png)
 # MLD
-![MLD](mld.png)
+![MLD](images/mld.png)
 # MPD
-![mpd](mpd.png)
+![mpd](images/mpd.png)
+
+## To Do
+
+- improve reusability
+- add documentation
+- add catching of errors
+- add loggins
+- accept rerun of main.ipynb without error
+- add test
+- develope eda (done not registered)
